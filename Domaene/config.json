@@ -41,7 +41,7 @@
 	  "labelSizeRatio": 4
     },
     "graphProperties": {
-      "maxEdgeSize": 5,
+      "maxEdgeSize": 2,
       "minEdgeSize": 0.5,
       "minNodeSize": 0.5,
       "maxNodeSize": 10
